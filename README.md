@@ -1,4 +1,4 @@
-# SLASH MARK
+# SLASH-MARK
 
 # Task-2
 
